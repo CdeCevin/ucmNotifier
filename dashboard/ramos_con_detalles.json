@@ -48,7 +48,7 @@
         },
         {
             "nombre": "MODULO INTEGRADOR FORMACIÓN PROFESIONAL",
-            "nota_final": null,
+            "nota_final": 7.0,
             "id_curso": "01003129",
             "componentes": [
                 {
