@@ -48,7 +48,7 @@ jobs:
         git add dashboard/
         
         # Evaluamos si hay archivos listos para el commit (en el staging area)
-        if [ -n "$(git status --porcelain --staged)" ]; then
+        if ! git diff --cached --quiet; then
           git commit -m "auto: actualizar notas y gráficos"
           git push
         else
