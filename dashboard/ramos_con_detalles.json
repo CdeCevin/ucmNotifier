@@ -1,29 +1,6 @@
 {
     "ramos_con_detalles": [
         {
-            "nombre": "ELECTIVO II: BASE DE DATOS AVANZADAS",
-            "nota_final": null,
-            "id_curso": "01003130",
-            "componentes": [
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "30%",
-                    "nota": 6.7
-                },
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "30%",
-                    "nota": null
-                },
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "40%",
-                    "nota": null
-                }
-            ],
-            "semestre": "Semestre 1 (Pre) 2026"
-        },
-        {
             "nombre": "ELECTIVO III: PROGRAMACIÓN DE APLICACION",
             "nota_final": 7.0,
             "id_curso": "01011130",
@@ -42,6 +19,29 @@
                     "nombre": "Parcial",
                     "porcentaje": "40%",
                     "nota": 7.0
+                }
+            ],
+            "semestre": "Semestre 1 (Pre) 2026"
+        },
+        {
+            "nombre": "ELECTIVO II: BASE DE DATOS AVANZADAS",
+            "nota_final": null,
+            "id_curso": "01003130",
+            "componentes": [
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "30%",
+                    "nota": 6.7
+                },
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "30%",
+                    "nota": 6.0
+                },
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "40%",
+                    "nota": null
                 }
             ],
             "semestre": "Semestre 1 (Pre) 2026"
