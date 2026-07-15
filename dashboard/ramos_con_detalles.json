@@ -1,6 +1,24 @@
 {
     "ramos_con_detalles": [
         {
+            "nombre": "MODULO INTEGRADOR FORMACIÓN PROFESIONAL",
+            "nota_final": 7.0,
+            "id_curso": "01003129",
+            "componentes": [
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "40%",
+                    "nota": 7.0
+                },
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "60%",
+                    "nota": 7.0
+                }
+            ],
+            "semestre": "Semestre 1 (Pre) 2026"
+        },
+        {
             "nombre": "ELECTIVO III: PROGRAMACIÓN DE APLICACION",
             "nota_final": 7.0,
             "id_curso": "01011130",
@@ -42,24 +60,6 @@
                     "nombre": "Parcial",
                     "porcentaje": "40%",
                     "nota": 6.3
-                }
-            ],
-            "semestre": "Semestre 1 (Pre) 2026"
-        },
-        {
-            "nombre": "MODULO INTEGRADOR FORMACIÓN PROFESIONAL",
-            "nota_final": 7.0,
-            "id_curso": "01003129",
-            "componentes": [
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "40%",
-                    "nota": 7.0
-                },
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "60%",
-                    "nota": 7.0
                 }
             ],
             "semestre": "Semestre 1 (Pre) 2026"
