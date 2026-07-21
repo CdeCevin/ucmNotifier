@@ -1,6 +1,29 @@
 {
     "ramos_con_detalles": [
         {
+            "nombre": "ELECTIVO II: BASE DE DATOS AVANZADAS",
+            "nota_final": 6.3,
+            "id_curso": "01003130",
+            "componentes": [
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "30%",
+                    "nota": 6.7
+                },
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "30%",
+                    "nota": 6.0
+                },
+                {
+                    "nombre": "Parcial",
+                    "porcentaje": "40%",
+                    "nota": 6.3
+                }
+            ],
+            "semestre": "Semestre 1 (Pre) 2026"
+        },
+        {
             "nombre": "MODULO INTEGRADOR FORMACIÓN PROFESIONAL",
             "nota_final": 7.0,
             "id_curso": "01003129",
@@ -37,29 +60,6 @@
                     "nombre": "Parcial",
                     "porcentaje": "40%",
                     "nota": 7.0
-                }
-            ],
-            "semestre": "Semestre 1 (Pre) 2026"
-        },
-        {
-            "nombre": "ELECTIVO II: BASE DE DATOS AVANZADAS",
-            "nota_final": null,
-            "id_curso": "01003130",
-            "componentes": [
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "30%",
-                    "nota": 6.7
-                },
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "30%",
-                    "nota": 6.0
-                },
-                {
-                    "nombre": "Parcial",
-                    "porcentaje": "40%",
-                    "nota": 6.3
                 }
             ],
             "semestre": "Semestre 1 (Pre) 2026"

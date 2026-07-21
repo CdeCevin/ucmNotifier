@@ -1,9 +1,9 @@
 {
-  "total_materias": 2,
-  "promedio_general": 7.0,
+  "total_materias": 3,
+  "promedio_general": 6.766666666666667,
   "nota_maxima": 7.0,
-  "nota_minima": 7.0,
-  "desviacion_estandar": 0.0,
-  "materias_aprobadas": 2,
+  "nota_minima": 6.3,
+  "desviacion_estandar": 0.4041451884327381,
+  "materias_aprobadas": 3,
   "materias_excelentes": 2
 }
